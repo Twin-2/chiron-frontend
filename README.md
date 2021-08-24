@@ -1,6 +1,10 @@
 # Chiron - Fitness Exercise Finder
 
-Team Members: David Whitmore, Tray Alexzandar, Jesse Dills, Matt Cho
+**Authors**: David Whitmore, Tray Alexzandar, Jesse Dills, Matt Cho
+**Version**: 1.0
+
+## Overview
+This application allowsy you to build a unique library of exercises for yourself. Deployed on [Netlify](https://chiron-fitnesshelper.netlify.app/). Backend code on [this](https://github.com/Twin-2/chiron-backend) GitHub repo.
 
 ## Wireframe
 ![](./img/wireframe.png)
