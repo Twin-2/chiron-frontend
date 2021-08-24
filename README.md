@@ -5,7 +5,7 @@
 **Version**: 1.0
 
 ## Overview
-This application allowsy you to build a unique library of exercises for yourself. Deployed on [Netlify](https://chiron-fitnesshelper.netlify.app/). Backend code on [this](https://github.com/Twin-2/chiron-backend) GitHub repo.
+This application allows you to build a unique library of exercises for yourself. Deployed on [Netlify](https://chiron-fitnesshelper.netlify.app/). Backend code on [this](https://github.com/Twin-2/chiron-backend) GitHub repo.
 
 ## Wireframe
 ![](./img/wireframe.png)
