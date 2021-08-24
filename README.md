@@ -1,6 +1,7 @@
 # Chiron - Fitness Exercise Finder
 
 **Authors**: David Whitmore, Tray Alexzandar, Jesse Dills, Matt Cho
+
 **Version**: 1.0
 
 ## Overview
